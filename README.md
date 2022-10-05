@@ -3,7 +3,6 @@ ATM Machine Console Application In Java
 
 **************************************************************************
  * (C) Copyright 2022 by Haries-dev, Inc. All Rights Reserved.            *
- *                                                                        *
  * DISCLAIMER: The authors and publisher of this book have used their     *
  * best efforts in preparing the book. These efforts include the          *
  * development, research, and testing of the theories and programs        *
@@ -13,4 +12,4 @@ ATM Machine Console Application In Java
  * and publisher shall not be liable in any event for incidental or       *
  * consequential damages in connection with, or arising out of, the       *
  * furnishing, performance, or use of these programs.                     *
- *************************************************************************
+*************************************************************************
